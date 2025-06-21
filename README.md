@@ -66,10 +66,10 @@ A comprehensive real-time disaster response platform built with the **MERN Stack
 [ React Frontend ] ↔ [ Express Backend ] ↔ [ Supabase DB ]
      ↕                     ↕                     ↕
 [ WebSocket ]     [ AI + APIs + Caching ]    [ PostGIS ]
-![1](https://github.com/user-attachments/assets/0871ddd8-5404-403f-ab33-71f73df6b44f)
-![2](https://github.com/user-attachments/assets/32d26e7e-83d9-4385-ace0-d0209ad5b24a)
-![3](https://github.com/user-attachments/assets/0ec689ca-dae2-43f6-ab51-110410f0720b)
-![4](https://github.com/user-attachments/assets/d85e3785-727c-464d-ad0e-d670b5df3982)
+(https://github.com/user-attachments/assets/0871ddd8-5404-403f-ab33-71f73df6b44f)
+(https://github.com/user-attachments/assets/32d26e7e-83d9-4385-ace0-d0209ad5b24a)
+(https://github.com/user-attachments/assets/0ec689ca-dae2-43f6-ab51-110410f0720b)
+(https://github.com/user-attachments/assets/d85e3785-727c-464d-ad0e-d670b5df3982)
 
 
 
